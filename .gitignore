@@ -1,0 +1,28 @@
+# Configurações locais do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos gerados na compilação
+[Bb]in/
+[Oo]bj/
+
+# Configurações de outros editores
+.idea/
+.vscode/
+
+# Resultados de testes
+TestResults/
+coverage/
+
+# Logs
+*.log
+
+# Arquivos locais de banco
+*.mdf
+*.ldf
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
